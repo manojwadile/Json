@@ -1,0 +1,100 @@
+[
+    {
+        "id": "1001",
+        "name": "Entellengia",
+        "title": "flat 1001 title",
+        "lat": 1,
+        "lng": 27,
+        "imageUrl": "https://github.com/manojwadile/React/tree/master/tutorial_basic/src/branding/images/flat1.jpg",
+        "address": {
+        "streetAddress": "21 2nd Street",
+        "city": "New York",
+        "state": "NY",
+        "postalCode": "10021-3100"
+        }
+    },
+    {
+        "id": "1002",
+        "name": "Ueopira",
+        "title": "flat 1002 title",
+        "lat": 1,
+        "lng": 27,
+        "imageUrl": "https://github.com/manojwadile/React/tree/master/tutorial_basic/src/branding/images/flat2.jpg",
+        "address": {
+        "streetAddress": "21 2nd Street",
+        "city": "New York",
+        "state": "NY",
+        "postalCode": "10021-3100"
+        }
+    },
+    {
+        "id": "1003",
+        "name": "Verigia",
+        "title": "flat 1003 title",
+        "lat": 1,
+        "lng": 27,
+        "imageUrl": "https://github.com/manojwadile/React/tree/master/tutorial_basic/src/branding/images/flat3.jpg",
+        "address": {
+        "streetAddress": "21 2nd Street",
+        "city": "New York",
+        "state": "NY",
+        "postalCode": "10021-3100"
+        }
+    },
+    {
+        "id": "1004",
+        "name": "Flora",
+        "title": "flat 1004 title",
+        "lat": 1,
+        "lng": 27,
+        "imageUrl": "https://github.com/manojwadile/React/tree/master/tutorial_basic/src/branding/images/flat4.jpg",
+        "address": {
+        "streetAddress": "21 2nd Street",
+        "city": "New York",
+        "state": "NY",
+        "postalCode": "10021-3100"
+        }
+    },
+    {
+        "id": "1005",
+        "name": "Eletra",
+        "title": "flat 1005 title",
+        "lat": 1,
+        "lng": 27,
+        "imageUrl": "https://github.com/manojwadile/React/tree/master/tutorial_basic/src/branding/images/flat5.jpg",
+        "address": {
+        "streetAddress": "21 2nd Street",
+        "city": "New York",
+        "state": "NY",
+        "postalCode": "10021-3100"
+        }
+    },
+    {
+        "id": "1006",
+        "name": "venegia",
+        "title": "flat 1006 title",
+        "lat": 1,
+        "lng": 27,
+        "imageUrl": "https://github.com/manojwadile/React/tree/master/tutorial_basic/src/branding/images/flat6.jpg",
+        "address": {
+        "streetAddress": "21 2nd Street",
+        "city": "New York",
+        "state": "NY",
+        "postalCode": "10021-3100"
+        }
+    },
+    {
+        "id": "1007",
+        "name": "Flocas",
+        "title": "flat 1007 title",
+        "lat": 1,
+        "lng": 27,
+        "imageUrl": "https://github.com/manojwadile/React/tree/master/tutorial_basic/src/branding/images/flat7.jpg",
+        "address": {
+        "streetAddress": "21 2nd Street",
+        "city": "New York",
+        "state": "NY",
+        "postalCode": "10021-3100"
+        }
+    }
+]
